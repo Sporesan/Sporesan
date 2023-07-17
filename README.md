@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sporesan
 - 👀 I’m interested in artificial intelligence techniques, machine learning, deep learning and general automation across all fields.
-- 🌱 I’m currently learning deep learning segmentation and causal learning.
-- ⚙️ I’m looking to collaborate on automation and deep learning projects.
+- 🌱 Currently learning machine learning/A.I techniques to be implemented with WebOps, DevOps and game development.
+- ⚙️ I’m looking to collaborate on automation and machine learning/A.I projects.
+- 💼 Looking to work as software/A.I developer.
 - 📫 How to reach me :
 - sanjivrajkumar96@gmail.com
 
